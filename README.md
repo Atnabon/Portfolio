@@ -10,5 +10,5 @@
 
 ## Live Demo
 
-[LIVE LINK](https://portfolio-atnabon.vercel.app/)
+[LIVE LINK](https://atnabon.github.io/)
 
